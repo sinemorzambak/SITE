@@ -1,2 +1,2 @@
 # My Personal Website
-  I'm using HTML, CSS and JS.
+  I used HTML, CSS and JS.
